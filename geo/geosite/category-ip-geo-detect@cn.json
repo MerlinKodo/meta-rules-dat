@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "iplark.com",
+        "ipw.cn",
+        "whois.pconline.com.cn"
+      ],
+      "domain_suffix": [
+        ".iplark.com",
+        ".ipw.cn",
+        ".whois.pconline.com.cn"
+      ]
+    }
+  ]
+}
